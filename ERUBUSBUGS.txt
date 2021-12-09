@@ -1,0 +1,16 @@
+1. Need server python code to upload multiple files (███████████████ is recommended)
+2. SCP bottom of text is varying in the amount cut off (presumed immpossible to fix within reason)
+3. SCiHNET Access is not displaying text
+4. Clearance is not secure
+5. Money needs rolling pin id
+6. Need to lock ERUBUS OS folder (can't use administrator, maybe use ██████████)
+7. Need more secure sign in
+8. Upload's outlook profile problem 
+9. FIX OPEN COMMAND
+
+
+--- Recommendations:
+ - Installer
+ - Intentianally confuse user about the system
+ - Script to close windows that go into the folder
+ - DO NOT LET ANYONE KNOW OF HOW THE SYSTEM WORKS
