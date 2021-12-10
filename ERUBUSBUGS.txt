@@ -13,13 +13,4 @@
  - Installer
  - Intentianally confuse user about the system
  - Script to close windows that go into the folder
- - DO NOT LET ANYONE KNOW HOW SYSTEM WORKS
-
---- GOALS:
-  - MAKE ACCESS EDIT REDACT AND COMMIT DIFFRENT COMMANDS FOR THE SAKE OF SCHMO INC EMPLOYEES
-  - Add security:
-	- Clearance
-	- Email Pins
-	- Acc Security
-  - Make economy
-  - Gain intrest and employees
+ - DO NOT LET ANYONE KNOW OF HOW THE SYSTEM WORKS
